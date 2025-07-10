@@ -103,7 +103,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝐒𝙷𝙰𝙶𝙴𝙴 𝐌𝙳",
-thumbnailUrl: "https://ibb.co/LD5FCLct",
+thumbnailUrl: "https://files.catbox.moe/3xdufl.jpg",
 sourceUrl: "hthttps://whatsapp.com/channel/0029Vb6A4FQJkK7AOqqfBM17",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -139,7 +139,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "𝐒𝙷𝙰𝙶𝙴𝙴 𝐌𝙳",
-thumbnailUrl: "https://ibb.co/LD5FCLct",
+thumbnailUrl: "https://files.catbox.moe/3xdufl.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6A4FQJkK7AOqqfBM17",
 mediaType: 2,
 renderLargerThumbnail: true,
